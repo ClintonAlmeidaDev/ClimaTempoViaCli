@@ -1,0 +1,4 @@
+===
+Cidade: Florianópolis, SC - BR    2023-02-21 21:39:12.000                                                    
+    Temperatura: 24 - Sensação: 24
+    Umidade: 74 - Velocidade do Vento: 19
